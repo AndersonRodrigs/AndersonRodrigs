@@ -1,12 +1,15 @@
-### Ola seja bem vindo ao meu perfil👋 
-Me chamo Anderson  Rodrigues. <br>
-Desenvolvedor Front End
-##
+### Olá seja bem vindo ao meu perfil👋, meu nome é Anderson  Rodrigues. 
+<h2>Desenvolvedor Front End</h2>
+<br>
 <div align="center">
   <a href="https://github.com/AndersonRS090">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonRS080&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRS080&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonRS080&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=fff&text_color=fff&icon_color=icon_color&bg_color=00152e&border_radius=15px"/>
+
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRS080&layout=compact&langs_count=7&theme=tokyonight&title_color=fff&text_color=fff&bg_color=00152e&border_radius=10px"/>
 </div>
+
+##
 
 <div style="display: inline_block"<br>
    <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
