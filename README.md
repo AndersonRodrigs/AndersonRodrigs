@@ -1,4 +1,6 @@
-### Ola seja bem vindo ao meu perfil👋, me chamo Anderson  Rodrigues.
+### Ola seja bem vindo ao meu perfil👋 
+Me chamo Anderson  Rodrigues. <br>
+Desenvolvedor Front End
 ##
 <div align="center">
   <a href="https://github.com/AndersonRS090">
