@@ -5,7 +5,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonrodrigs&show_icons=true&bg_color=131520&border_color=00a4d6&text_color=4ed6ff&title_color=fff"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonrodrigs&layout=compact)](https://github.com/andersonrodrigs/github-readme-stats"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonrodrigs&layout=compact&bg_color=131520&border_color=00a4d6&text_color=4ed6ff&title_color=fff"/> 
 </div>
  
 ##
