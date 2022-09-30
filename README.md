@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/AndersonRS080">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonRodrigs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=131520&icon_color=006ed4&border_color=00a4d6&title_color=fff&text_color=4ed6ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonRodrigs&show_icons=true&include_all_commits=true&count_private=true&bg_color=131520&icon_color=006ed4&border_color=00a4d6&title_color=fff&text_color=4ed6ff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRodrigs&layout=compact&langs_count=7&bg_color=131520&border_color=00a4d6&text_color=4ed6ff&title_color=fff"/> 
 </div>
  
