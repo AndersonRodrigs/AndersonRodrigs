@@ -1,36 +1,37 @@
-### Olá seja bem vindo ao meu perfil👋, meu nome é Anderson  Rodrigues. 
+### Olá seja bem vindo ao meu perfil👋, meu nome é Anderson  Rodrigues
 ## Desenvolvedor Front End
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/anderson.souza.r/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anderson-rodrigues-s) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+# 📊 GitHub Stats:
+
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonrodrigs&show_icons=true&bg_color=131520&border_color=00a4d6&text_color=4ed6ff&title_color=fff"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonrodrigs&layout=compact&bg_color=131520&border_color=00a4d6&text_color=4ed6ff&title_color=fff"/> 
-</div>
- 
-##
-
-<div style="display: inline_block"<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
-
+  
+![](https://github-readme-stats.vercel.app/api?username=AndersonRodrigs&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AndersonRodrigs&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRodrigs&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
 </div>
 
+---
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
           
 ##
 
-<div> 
-    <a href="https://www.linkedin.com/in/anderson-r-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/invites/contact/?i=1ptlfmij9zrtk&utm_content=3fj24kf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:anderson.rodriguesouz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
- 
+<div>  
+  
   ![Snake animation](https://github.com/AndersonRodrigs/AndersonRodrigs/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
+
+##
+
+[![](https://visitcount.itsvg.in/api?id=AndersonRodrigs&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
