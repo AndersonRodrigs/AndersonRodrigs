@@ -10,10 +10,11 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonRodrigs&show_icons=true&theme=react&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRodrigs&layout=compact&langs_count=7&theme=react"/>
+<img height="" src="https://github-readme-stats.vercel.app/api?username=AndersonRodrigs&show_icons=true&theme=react&count_private=true"/>
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AndersonRodrigs&theme=react&hide_border=false)<br/>
+  
+<img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRodrigs&layout=compact&langs_count=7&theme=react"/>
   
 </div>
 
