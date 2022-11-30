@@ -10,7 +10,7 @@
 
 <div align="center">
   
-<img height="" src="https://github-readme-stats.vercel.app/api?username=AndersonRodrigs&show_icons=true&theme=react&count_private=true"/>
+<img height="" src="https://github-readme-stats.vercel.app/api?username=AndersonRodrigs&show_icons=true&theme=react&count_private=true"/> </br>
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AndersonRodrigs&theme=react&hide_border=false)<br/>
   
