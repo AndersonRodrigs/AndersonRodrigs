@@ -1,4 +1,4 @@
-### Olá seja bem vindo ao meu perfil👋, meu nome é Anderson  Rodrigues
+### Olá seja bem vindo ao meu perfil👋, meu nome é Anderson Rodrigues
 ## Desenvolvedor Front End
 
 ## 🌐 Socials:
@@ -12,9 +12,10 @@
 <div align="center">
   <a href="https://github.com/AndersonRodrigs">
 
- ![](https://github-readme-stats.vercel.app/api?username=AndersonRodrigs&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AndersonRodrigs&theme=react&hide_border=false&include_all_commits=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AndersonRodrigs&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRodrigs&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRodrigs&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
     
 </div>
 
