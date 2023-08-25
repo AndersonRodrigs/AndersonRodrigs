@@ -16,9 +16,9 @@
 <div >
   <a href="https://github.com/AndersonRodrigs">
     
-![](https://github-readme-stats.vercel.app/api?username=AndersonRodrigs&theme=vue-dark&hide&bg_color=00000000&border=false&border_color=21262D&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AndersonRodrigs&theme=vue-dark&hide&border=false&border=21262D&background=00000000)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRodrigs&theme=vue-dark&bg_color=00000000&hide_border=false&include_all_commits=true&count_private=true&border_color=21262D&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AndersonRodrigs&theme=holi&hide&bg_color=00000000&border=false&border_color=21262D&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AndersonRodrigs&theme=holi-theme&hide&border=false&border=21262D&background=00000000)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRodrigs&theme=holi&bg_color=00000000&hide_border=false&include_all_commits=true&count_private=true&border_color=21262D&layout=compact)
     
 </div>
   
