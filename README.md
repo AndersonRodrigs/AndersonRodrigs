@@ -6,13 +6,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/anderson-rodrigues-s/)
 [![Instagram](https://img.shields.io/badge/Instagram-21262D?style=for-the-badge&logo=instagram)](https://www.instagram.com/anderson.souza./)
 
-#  Tech Stack:
+## Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-21262D?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-21262D?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-21262D?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-21262D?style=for-the-badge&logo=react)
 
-#  GitHub Stats:
+## GitHub Stats:
 <div >
   <a href="https://github.com/AndersonRodrigs">
     
