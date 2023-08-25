@@ -12,9 +12,9 @@
 <div>
   <a href="https://github.com/AndersonRodrigs">
     
-![](https://github-readme-stats.vercel.app/api?username=AndersonRodrigs&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AndersonRodrigs&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRodrigs&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndersonRodrigs&theme=github_dark&border_color=f3f3f3&show_icons=true&title_color=238636&text_color=FFF)    
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AndersonRodrigs&theme=github_dark&border=fff&dates=FFF)](https://git.io/streak-stats) <br>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndersonRodrigs&layout=compact&bg_color=000&border_color=30A3DC&title_color=238636&text_color=238636)
     
 </div>
   
